@@ -1,6 +1,6 @@
 package ex_02_Java_Basics;
 
-public class Char_As_Integral_DataType {
+public class Lab010_Char_As_Integral_DataType {
     public static void main(String[] args) {
         char c='A';
         System.out.println("Actual Character" +c);
