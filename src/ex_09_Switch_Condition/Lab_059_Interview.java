@@ -11,6 +11,6 @@ public class Lab_059_Interview {
             default:
                 System.out.println("No Match");
         }
-        //Output is No match since ch value doesn't match with case
+        //Output is Match ASCII since ch value A ASCII value is 65 it match with case
     }
 }

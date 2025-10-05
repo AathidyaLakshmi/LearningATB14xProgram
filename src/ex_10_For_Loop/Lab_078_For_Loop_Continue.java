@@ -1,7 +1,13 @@
 package ex_10_For_Loop;
 
-public class Lab_077_For_Loop_Continue {
+public class Lab_078_For_Loop_Continue {
     public static void main(String[] args) {
-        
+        // continue-->skip below and continue
+        for (int i = 0; i < 50; i++) {
+            if(i == 5){
+                continue; // skip below code and go above one step
+            }
+            System.out.println(i);  // 0,1,2,3,4,6,7...49
+        }
     }
 }

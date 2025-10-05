@@ -3,7 +3,8 @@ package ex_07_Increment_And_Decrement_Operator;
 public class Lab_046_Increment_Challenge_Exp1 {
     public static void main(String[] args) {
         int a = 10;
-        System.out.println(a++ + a); //10+11=21
+        int res=a++ +a;
+        System.out.println(res); //10+11=21
         // D & C
         //  A + B
         // A -> a++

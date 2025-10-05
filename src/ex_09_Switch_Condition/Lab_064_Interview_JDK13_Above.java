@@ -1,6 +1,6 @@
 package ex_09_Switch_Condition;
 
-public class Lab_063_Interview_JDK13_Above {
+public class Lab_064_Interview_JDK13_Above {
     public static void main(String[] args) {
         // in JDK > 13 we can write switch statement without break. it works as same.
         //here we use ->
