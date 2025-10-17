@@ -3,7 +3,7 @@ package ex_13_Array;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class ex_102_Max_And_Min_Number_In_Array {
+public class Lab_102_Max_And_Min_Number_In_Array {
     public static void main(String[] args) {
         //To find Max and Min Number in an array
         //Step-1: Sort the array elements in either ascending or descending order and min and max

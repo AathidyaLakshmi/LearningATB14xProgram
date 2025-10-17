@@ -1,6 +1,6 @@
 package ex_13_Array;
 
-public class ex_106_Mirror_Right_Triangle_Pattern {
+public class Lab_106_Mirror_Right_Triangle_Pattern {
     public static void main(String[] args) {
         /*
         * ******

@@ -1,6 +1,6 @@
 package ex_13_Array;
 
-public class ex_91_Object_Array {
+public class Lab_91_Object_Array {
     public static void main(String[] args) {
         // This object array holds all types of values as Strings
         // So if we want to read and use any values from object we should convert to corresponding type

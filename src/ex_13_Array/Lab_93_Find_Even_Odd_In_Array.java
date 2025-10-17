@@ -3,7 +3,7 @@ package ex_13_Array;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class ex_93_Find_Even_Odd_In_Array {
+public class Lab_93_Find_Even_Odd_In_Array {
     public static void main(String[] args) {
         System.out.println("Enter number of elements in array:");
         Scanner sc = new Scanner(System.in);

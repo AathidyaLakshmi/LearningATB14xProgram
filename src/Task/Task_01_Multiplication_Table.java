@@ -4,6 +4,7 @@ public class Task_01_Multiplication_Table {
     public static void main(String[] args) {
         //condition not use any loop
         // Idea to understand printf() function
+
         int num=9;
 
         //%d -->int, %c-->char, %s-->string, %f-->float

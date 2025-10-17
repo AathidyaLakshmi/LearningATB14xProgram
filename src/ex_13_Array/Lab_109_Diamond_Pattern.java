@@ -1,6 +1,6 @@
 package ex_13_Array;
 
-public class ex_109_Diamond_Pattern {
+public class Lab_109_Diamond_Pattern {
 /*
 *           *
           * * *

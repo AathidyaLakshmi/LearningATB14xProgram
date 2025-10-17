@@ -1,6 +1,6 @@
 package ex_13_Array;
 
-public class ex_101_Missing_Element_In_An_Array {
+public class Lab_101_Missing_Element_In_An_Array {
     public static void main(String[] args) {
 
         // step-1 sum of n numbers=n*(n+1)/2-->expected sum-->[1,2,3,4,....n]

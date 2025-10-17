@@ -3,7 +3,7 @@ package ex_13_Array;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class ex_99_Sort_Array_Elements_Descending_Order_For_Loop {
+public class Lab_99_Sort_Array_Elements_Descending_Order_For_Loop {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the number of array elements:" );

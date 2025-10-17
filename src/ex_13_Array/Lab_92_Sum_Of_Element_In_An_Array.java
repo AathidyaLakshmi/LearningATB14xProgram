@@ -2,7 +2,7 @@ package ex_13_Array;
 
 import java.util.Scanner;
 
-public class ex_92_Sum_Of_Element_In_An_Array {
+public class Lab_92_Sum_Of_Element_In_An_Array {
     public static void main(String[] args) {
 
         System.out.println("Enter the size of 1d-Array:");

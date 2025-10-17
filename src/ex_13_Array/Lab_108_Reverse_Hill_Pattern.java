@@ -1,6 +1,6 @@
 package ex_13_Array;
 
-public class ex_108_Reverse_Hill_Pattern {
+public class Lab_108_Reverse_Hill_Pattern {
     /*
      * * * * * * * * *
        * * * * * * *

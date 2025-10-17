@@ -2,7 +2,7 @@ package ex_13_Array;
 
 import java.util.Arrays;
 
-public class ex_96_Sort_Array_Elements_Using_Built_In_Method {
+public class Lab_96_Sort_Array_Elements_Using_Built_In_Method {
     public static void main(String[] args) {
         int a[]= {23,45,1,13,90};
         System.out.println("Array elements before sorting: "+ Arrays.toString(a));

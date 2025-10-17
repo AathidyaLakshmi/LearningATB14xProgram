@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class ex_98_Sort_Array_Elements_Descending_Order_Built_In_Method {
+public class Lab_98_Sort_Array_Elements_Descending_Order_Built_In_Method {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the number of array elements:" );

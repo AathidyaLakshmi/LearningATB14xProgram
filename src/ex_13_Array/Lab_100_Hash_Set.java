@@ -2,7 +2,7 @@ package ex_13_Array;
 
 import java.util.HashSet;
 
-public class ex_100_Hash_Set {
+public class Lab_100_Hash_Set {
     public static void main(String[] args) {
         //Hash set does not accept duplicate values
         //It can accept only unique values

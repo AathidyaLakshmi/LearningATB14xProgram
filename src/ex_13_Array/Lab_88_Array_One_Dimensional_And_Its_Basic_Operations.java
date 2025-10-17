@@ -1,6 +1,6 @@
 package ex_13_Array;
 
-public class ex_88_Array_One_Dimensional_And_Its_Basic_Operations {
+public class Lab_88_Array_One_Dimensional_And_Its_Basic_Operations {
     public static void main(String[] args) {
         //Declaration of arrays
         // Approach-1

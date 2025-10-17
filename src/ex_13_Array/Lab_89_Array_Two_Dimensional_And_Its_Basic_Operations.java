@@ -1,7 +1,7 @@
 package ex_13_Array;
 
 
-public class ex_89_Array_Two_Dimensional_And_Its_Basic_Operations {
+public class Lab_89_Array_Two_Dimensional_And_Its_Basic_Operations {
     public static void main(String[] args) {
 
         //APPROACH - 1

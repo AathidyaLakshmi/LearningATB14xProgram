@@ -1,6 +1,6 @@
 package ex_13_Array;
 
-public class ex_107_Hill_Pattern {
+public class Lab_107_Hill_Pattern {
         /* Output
                  *
                * * *

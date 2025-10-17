@@ -1,6 +1,6 @@
 package ex_13_Array;
 
-public class ex_90_Array_Two_Dimensional_And_Its_Basic_Operations_2 {
+public class Lab_90_Array_Two_Dimensional_And_Its_Basic_Operations_2 {
     public static void main(String[] args) {
         //APPROACH - 1
         //Declaration and Adding values in 2D array - when size is dynamic
