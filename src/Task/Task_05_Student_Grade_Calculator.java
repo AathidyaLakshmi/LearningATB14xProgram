@@ -16,24 +16,27 @@ public class Task_05_Student_Grade_Calculator {
             total_marks = total_marks + marks;
         }
         double percentage = (total_marks / (total_subject*100))*100;
-        char grade =Grade_Calc(percentage);
+        String  grade =Grade_Calc(percentage);
         System.out.println("Your Grade: "+grade);
 
     }
-    static char Grade_Calc(double percent) {
+    static String Grade_Calc(double percent) {
         if (percent >= 90 && percent <= 100) {
-            return 'A';
+            return "A+";
         } else if (percent >= 80 && percent <= 89) {
-            return 'B';
+            return "A";
 
         } else if (percent >= 70 && percent <= 79) {
-            return 'C';
+            return "B";
         } else if (percent >= 60 && percent <= 69) {
-            return 'D';
+            return "C";
         } else if (percent >= 50 && percent <= 59) {
-            return 'E';
+            return "D";
+        }
+        else if (percent >= 40 && percent <= 49) {
+            return "E";
         } else {
-            return 'F';
+            return "You are fail!";
         }
     }
 }
