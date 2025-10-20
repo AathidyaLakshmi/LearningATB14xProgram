@@ -2,7 +2,7 @@ package ex_14_Strings;
 
 import java.util.Arrays;
 
-public class Lab_122_Example_2 {
+public class Lab_122_Example_2_String_Functions {
     public static void main(String[] args) {
         String s= "Java".substring(2);
         System.out.println(s); //prints va
