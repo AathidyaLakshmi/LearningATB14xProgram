@@ -2,7 +2,7 @@ package If_Else_Task;
 
 import java.util.Scanner;
 
-public class Task_4_Check_Character_Vowel_Or_consonant {
+public class Task_004_Check_Character_Vowel_Or_consonant {
     public static void main(String[] args) {
         System.out.println("Enter a character");
         Scanner sc=new Scanner(System.in);

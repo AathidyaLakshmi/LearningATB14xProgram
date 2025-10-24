@@ -2,7 +2,7 @@ package If_Else_Task;
 
 import java.util.Scanner;
 
-public class Task_9_Check_If_Year_Is_Leap_Year {
+public class Task_009_Check_If_Year_Is_Leap_Year {
     public static void main(String[] args) {
         int year;
         Scanner sc = new Scanner(System.in);

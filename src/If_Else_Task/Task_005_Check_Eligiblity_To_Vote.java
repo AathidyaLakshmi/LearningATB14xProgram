@@ -2,7 +2,7 @@ package If_Else_Task;
 
 import java.util.Scanner;
 
-public class Task_5_Check_Eligiblity_To_Vote {
+public class Task_005_Check_Eligiblity_To_Vote {
     public static void main(String[] args) {
         {
             int age;

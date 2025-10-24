@@ -2,7 +2,7 @@ package If_Else_Task;
 
 import java.util.Scanner;
 
-public class Task_1_Check_Number_Is_Positive_Or_Negative {
+public class Task_001_Check_Number_Is_Positive_Or_Negative {
     public static void main(String[] args) {
         System.out.println("Enter an integer:");
         Scanner sc=new Scanner(System.in);

@@ -2,7 +2,7 @@ package If_Else_Task;
 
 import java.util.Scanner;
 
-public class Task_12_Check_Prime_Number {
+public class Task_012_Check_Prime_Number {
     public static void main(String[] args) {
         /*
         * number should be greater than 1

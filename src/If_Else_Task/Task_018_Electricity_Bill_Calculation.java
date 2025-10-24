@@ -2,7 +2,7 @@ package If_Else_Task;
 
 import java.util.Scanner;
 
-public class Task_18_Electricity_Bill_Calculation {
+public class Task_018_Electricity_Bill_Calculation {
     /*Electricity Bill Calculation (Based on Units Consumed)
     :- take the input from the user of Units.
 Implement Rate Structure:

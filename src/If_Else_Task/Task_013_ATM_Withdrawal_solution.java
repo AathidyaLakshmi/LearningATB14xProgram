@@ -2,7 +2,7 @@ package If_Else_Task;
 
 import java.util.Scanner;
 
-public class Task_13_ATM_Withdrawal_solution {
+public class Task_013_ATM_Withdrawal_solution {
     /*1️⃣ Initialize the account balance with a fixed amount (e.g., ₹10,000).
 2️⃣ Take user input for the amount they want to withdraw.
 3️⃣ Check withdrawal conditions:

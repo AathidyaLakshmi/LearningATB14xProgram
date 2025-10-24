@@ -2,7 +2,7 @@ package If_Else_Task;
 
 import java.util.Scanner;
 
-public class Task_21_Travel_Eligibility_Based_On_Age_Visa {
+public class Task_021_Travel_Eligibility_Based_On_Age_Visa {
     /*Find if a Person Can Travel Based on Visa Status and Age.
   take the input from the user for
      Age (integer).

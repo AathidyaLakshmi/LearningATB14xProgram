@@ -2,7 +2,7 @@ package If_Else_Task;
 
 import java.util.Scanner;
 
-public class Task_20_Net_Salary_Calculator {
+public class Task_020_Net_Salary_Calculator {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         double basic_pay,hra_percent,da_percent,deduction_percent;

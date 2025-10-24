@@ -2,7 +2,7 @@ package If_Else_Task;
 
 import java.util.Scanner;
 
-public class Task_11_Character_Is_Alphabet {
+public class Task_011_Character_Is_Alphabet {
     public static void main(String[] args) {
         String input;
         Scanner sc=new Scanner(System.in);

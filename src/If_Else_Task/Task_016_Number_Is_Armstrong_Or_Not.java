@@ -2,7 +2,7 @@ package If_Else_Task;
 
 import java.util.Scanner;
 
-public class Task_16_Number_Is_Armstrong_Or_Not {
+public class Task_016_Number_Is_Armstrong_Or_Not {
     public static void main(String[] args) {
         System.out.println("Enter a number to verify armstrong or not: ");
         Scanner sc=new Scanner(System.in);

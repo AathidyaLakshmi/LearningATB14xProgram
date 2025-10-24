@@ -2,7 +2,7 @@ package If_Else_Task;
 
 import java.util.Scanner;
 
-public class Task_10_Grade_Calculator {
+public class Task_010_Grade_Calculator {
     public static void main(String[] args) {
         System.out.println("Enter Student Name:");
         Scanner sc = new Scanner(System.in);

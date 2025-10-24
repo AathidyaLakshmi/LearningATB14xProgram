@@ -2,7 +2,7 @@ package If_Else_Task;
 
 import java.util.Scanner;
 
-public class Task_14_Check_Triangle_Valid_Based_On_3_Sides {
+public class Task_014_Check_Triangle_Valid_Based_On_3_Sides {
     /*condition-1: All three sides length should be >0
     * condition-2: sum of any two side> third side
     *   a+b>c

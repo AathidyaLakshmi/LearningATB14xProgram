@@ -2,7 +2,7 @@ package If_Else_Task;
 
 import java.util.Scanner;
 
-public class Task_7_Smallest_Of_Two_Numbers {
+public class Task_007_Smallest_Of_Two_Numbers {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int num1,num2;

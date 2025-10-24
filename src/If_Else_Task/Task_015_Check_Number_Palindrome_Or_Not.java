@@ -2,7 +2,7 @@ package If_Else_Task;
 
 import java.util.Scanner;
 
-public class Task_15_Check_Number_Palindrome_Or_Not {
+public class Task_015_Check_Number_Palindrome_Or_Not {
     public static void main(String[] args) {
 
         System.out.println("Enter a number to verify it is palindrome or not: ");

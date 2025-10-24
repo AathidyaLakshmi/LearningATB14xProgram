@@ -2,7 +2,7 @@ package If_Else_Task;
 
 import java.util.Scanner;
 
-public class Task_17_Loan_Eligibility_Check {
+public class Task_017_Loan_Eligibility_Check {
     /* Check if a Person is Eligible for a Loan (Based on Age, Salary, and Credit Score)
         Take the below User info and store it into the variables:
             Age (integer),Salary (double or float),Credit Score (integer)
