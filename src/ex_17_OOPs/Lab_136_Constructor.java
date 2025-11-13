@@ -1,6 +1,6 @@
 package ex_17_OOPs;
 
-public class Lab_140_Constructor {
+public class Lab_136_Constructor {
     //This class is accessible anywhere within the project
     public static void main(String[] args) {
 //Create Object for Student class
@@ -24,7 +24,8 @@ class Student{
     //This class is accessible within the class Lab_140_Constructor.
     //Not outside of this
 
-    //DEFAULT CONSTRUCTOR
+    //DEFAULT CONSTRUCTOR - by default it will be created by JVM without any code inside it
+    //this will be called whenever i create object for Student class
     Student(){
         System.out.println("Hi I am default constructor");
     }
